@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me nothing yet.
+- 📫 How to reach me on twitter @TruckerToCoder.
 
 <!---
 CoderDudeBrent/CoderDudeBrent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
